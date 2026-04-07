@@ -139,7 +139,7 @@
     "tailwind-scrollbar": "4.0.2",
     "tailwindcss": "4.1.11",
     "typescript": "catalog:",
-    "vite": "^6.3.5",
+    "vite": "^6.4.2",
     "vite-tsconfig-paths": "^5.1.4",
     "wrangler": "catalog:"
   }
