@@ -84,7 +84,7 @@
     "superjson": "catalog:",
     "twilio": "5.7.0",
     "ulid": "3.0.1",
-    "uuid": "11.1.0",
+    "uuid": "14.0.0",
     "wrangler": "catalog:",
     "zod": "catalog:"
   },
